@@ -6,7 +6,9 @@ Esta página web se desarrolló para realizar compras on line.
 
 Tecnologías utilizadas:
 HTML
+
 CSS
+
 JS
 
 Cómo usar
