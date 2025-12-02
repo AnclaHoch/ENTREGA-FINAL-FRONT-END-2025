@@ -13,6 +13,9 @@ Cómo usar
 La página web todavia está en desarrollo
 
 Autor
+
 Nombre: Ana Clara Hochnadel
+
 GitHub: https://github.com/AnclaHoch
+
 LinkedIn: https://www.linkedin.com/in/ahochnadel/
