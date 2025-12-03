@@ -12,7 +12,6 @@ CSS
 
 JS
 
-Cómo usar
 La página web todavia está en desarrollo
 
 Autor
